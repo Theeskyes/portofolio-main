@@ -17,7 +17,7 @@ import Tools8 from "/assets/tools/github.png";
 import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
-import Tools12 from "/assets/tools/mikrotik.png";
+import Tools12 from "/assets/tools/mikrotik.webp";
 import Tools13 from "/assets/tools/firebase.png";
 import Tools14 from "/assets/tools/html.png";
 import Tools15 from "/assets/tools/css.png";
