@@ -42,8 +42,8 @@ export default function Lanyard() {
         </div>
         <div className="card-body">
           <p className="card-name">Najwa Aulia Syakila</p>
-          <span className="card-badge">Full Stack</span>
-          <p className="card-role">Web Development</p>
+          <span className="card-badge">Ketua Osis</span>
+          <p className="card-role">Network Engineering</p>
         </div>
       </div>
     </div>
