@@ -37,7 +37,7 @@ export default function Lanyard() {
       <div className="profile-card" ref={cardRef}>
         <div className="glow-ring" />
         <div className="card-img-wrap">
-          <img src="/assets/najwa1.png" alt="Najwa Aulia Syakila" />
+          <img src="/assets/najwa2.jpg" alt="Najwa Aulia Syakila" />
           <div className="card-img-overlay" />
         </div>
         <div className="card-body">
